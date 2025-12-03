@@ -2,3 +2,4 @@
 .chalice/deployed/
 .chalice/venv/
 Pipfile*
+credentials
